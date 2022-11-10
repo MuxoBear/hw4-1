@@ -87,7 +87,7 @@ public class Main {
 
         int one = 1;
         int two = 2;
-        int tree = 5;
+        int tree = 3;
 
         if (one<two || two < tree){
             System.out.println("Три болше двух и два болше одного");
